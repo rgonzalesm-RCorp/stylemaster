@@ -1,0 +1,12 @@
+
+# Librerias de node_modules
+node_modules/
+
+
+# Archivos *.log
+*.log
+
+# Carpeta de Log en src
+/src/logs/
+/src/.DS_Store
+/public
